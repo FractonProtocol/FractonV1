@@ -6,7 +6,11 @@ Dedicated to abstracting the financial layer apart from the utility of NFTs, Fra
 
 
 Website: https://www.fracton.cool
+
 Twitter: https://twitter.com/FractonProtocol
+
 Discord: https://discord.gg/qBVrFcEAGV
+
 Mirror: https://medium.com/@FractonProtocol
+
 Medium: https://medium.com/@FractonProtocol
